@@ -7,7 +7,7 @@ A set of scripts for calculating stochastic likelihood of increase ("utopy") for
 1. The TPM_calculator.R takes a set of time-series of integer values and generates a transition probability matrix for each time-series.
 	#### Input expected: 
 	1. Folder of csv files, each with a single row, with each cell being a new value for the time series.
-	##### Output generated: 
+	#### Output generated: 
 	1. Line-plots as png
 	2. Transition graphs as png
 	3. Transition probability matrices (TPM) as csv
