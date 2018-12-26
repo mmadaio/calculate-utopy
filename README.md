@@ -1,5 +1,5 @@
 # calculate-utopy
-A set of scripts for calculating stochastic likelihood of increase ("utopy") for real-valued time-series 
+A set of scripts for calculating stochastic likelihood of increase ("utopy") for real-valued time-series. Based on Sinha (2016)[https://www.researchgate.net/profile/Tanmay_Sinha/publication/309735539_Cognitive_Correlates_of_Rapport_Dynamics_in_Longitudinal_Peer_Tutoring/links/5919b7450f7e9b1db6527dea/Cognitive-Correlates-of-Rapport-Dynamics-in-Longitudinal-Peer-Tutoring.pdf]
 
 
 # Process
